@@ -36,7 +36,7 @@
 }
 
 #label-lblStatus{
-    -fx-background-color:white;
+    -fx-background-color:red;
     -fx-font: bold;
     -fx-font-size: 20px;
     -fx-padding: 10px;
@@ -44,7 +44,7 @@
 }
 
 #label-lbl{
-    -fx-background-color:white;
+    -fx-background-color:red;
     -fx-font: bold;
     -fx-font-size: 15px;
     -fx-padding: 20px;
